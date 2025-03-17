@@ -5,7 +5,7 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Requisitos y criterios a seguir
 
-Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2dam-tfc-2324/wiki).
+Tanto los criterios generales como los criterios particulares por cada módulo se encuentran en [la Wiki de este repositorio](https://github.com/CPIFPAlanTuring/2dam-tfc-2425/wiki).
 ## Profesores 
 La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada turno.
 ### Turno de Mañana
@@ -61,7 +61,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 La fecha y hora de exposición del alumnado se comunicará a través de este canal. La duración de cada exposición será de **15 minutos** (10 de exposición y 5 de preguntas), dejando un margen de otros 5 minutos para el cambio. El alumnado deberá llegar con tiempo suficiente a su presentación. Aquellos alumnos que, durante el período de exposiciones, aún no hayan finalizado su FCT, asistirán al Centro únicamente para exponer su proyecto, debiendo regresar posteriormente a sus prácticas en la empresa.
 
 **2º DAM Mañana**
-#### :calendar: martes 18 de junio de 2024
+#### :calendar: junio 2025 (day tbd)
 
 | Hora | Alumno(s)                                              |
 |------|--------------------------------------------------------|
@@ -70,7 +70,12 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 
 **2º DAM Tarde**
 
-`por determinar`
+#### :calendar: junio 2025 (day tbd)
+
+| Hora | Alumno(s)                                              |
+|------|--------------------------------------------------------|
+| 00:00 | Alumno 1 <br> Alumno 2   |
+| 00:30 | Alumno 3                       |
 
 ## :school: Lugar de las exposiciones
 
