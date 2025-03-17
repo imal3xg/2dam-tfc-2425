@@ -51,10 +51,10 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 `por determinar`
 
 ## 📝 Fechas a tener en cuenta
-* Anteproyecto: **TBD**
-* Revisión (checkpoint): **TBD**
-* Entrega de proyecto: **TBD**
-* Exposiciones: **TBD**
+* Anteproyecto: **31 de marzo**
+* Checkpoint:  **30 de abril**
+* Entrega: **13 de junio**
+* Exposiciones: **semana del 16 al 20 de junio** 
 
 ## ⏰ Cuadrante horario de las exposiciones
 
