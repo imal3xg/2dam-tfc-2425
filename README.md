@@ -1,7 +1,7 @@
 # Proyectos Final de Ciclo de 2º DAM
-**curso 2023|24**
+**curso 2024|25**
 
-En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2023|24.
+En este repositorio se encuentra centralizada toda la información relativa a los **Proyectos de Desarrollo de Aplicaciones Multiplataforma del CPIFP Alan Turing** (proyectos de fin de ciclo), en la convocatoria del curso 2024|25.
 
 ## Requisitos y criterios a seguir
 
@@ -9,34 +9,32 @@ Tanto los criterios generales como los criterios particulares por cada módulo s
 ## Profesores 
 La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada turno.
 ### Turno de Mañana
-* [David Hormigo](https://github.com/DavidHormigoRamirez)
+* [David Hormigo](https://github.com/DavidHormigoRamirez) 
 * [Miguel Ángel Ronda](https://github.com/profemronda)
 * [Juan Antonio Garcia](https://github.com/juanarrow)
-* [Alberto Garcia](https://github.com/teacher-IT)
+* [Carmen Campos]()
 ### Turno de Tarde
-
+* [José Santos]()
+* [Javier Úbeda]()
+* [Juan Manuel López García]()
+* [] ()
 ## Índice a los proyectos de cada alumno
 
 ### 2º DAM Mañana
 
 | Proyecto                                                                                                                         | Alumno(s)                                              |
 |----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| [ActiveLife](https://github.com/PabloGM1204/TFG-ActiveLife)                                                                      | Antonio Luis García Guerrero  <br>  Pablo García Muñoz |
-| [CarCare](https://github.com/Juanma-Gutierrez/TFC-2DAM-CarCare)                                                                  | Juan Manuel Gutiérrez Mellado                          |
-| [Chato](https://github.com/imchopi/TFG_Chato)                                                                                    | Javier Martín Gallardo<br> Adrián Perogil Fernández    |
-| [Globetrotting](https://marruiart.notion.site/Anteproyecto-Trabajo-Fin-de-Ciclo-TFC-2-DAM-2024-0088e98bd60f46969bcb7453cd2120f7) | Marina Ruiz Artacho                                    |
-| [Home Slam](https://github.com/Kuzafkto/TFG-2DAM-HomeSlam)                                                                       | Marco Valente                                          |
-| [Nook's toolbox](https://github.com/Jesushs4/TFG-NooksToolbox)                                                                   | Denisa-Ramona Belean<br> Jesús Herrera Sánchez         |
-| [SquadMe](https://github.com/squadMe-Proyect/squadme)                                                                            | Borja Bravo Casermeiro<br>Daniel Luque Gallardo        |
+| [Proyecto]()                                                                      | Alumno1  <br>  Alumno2 |
+
 
 ### 2º DAM Tarde
 `por determinar`
 
 ## 📝 Fechas a tener en cuenta
-* Anteproyecto: **5 de abril de 2024**
-* Revisión (checkpoint): **10 de mayo de 2024**
-* Entrega de proyecto: **14 de junio de 2024**
-* Exposiciones: **17 y 18 de junio de 2024**
+* Anteproyecto: **TBD**
+* Revisión (checkpoint): **TBD**
+* Entrega de proyecto: **TBD**
+* Exposiciones: **TBD**
 
 ## ⏰ Cuadrante horario de las exposiciones
 
@@ -47,13 +45,8 @@ La fecha y hora de exposición del alumnado se comunicará a través de este can
 
 | Hora | Alumno(s)                                              |
 |------|--------------------------------------------------------|
-| 8:30 | Javier Martín Gallardo<br> Adrián Perogil Fernández    |
-| 8:50 | Juan Manuel Gutiérrez Mellado                          |
-| 9:10 | Marco Valente                                          |
-| 9:30 | Denisa-Ramona Belean<br> Jesús Herrera Sánchez         |
-| 9:50 | Borja Bravo Casermeiro<br>Daniel Luque Gallardo        |
-| 10:10 | Marina Ruiz Artacho                                    |
-| 10:30 | Antonio Luis García Guerrero  <br>  Pablo García Muñoz |
+| 00:00 | Alumno 1 <br> Alumno 2   |
+| 00:30 | Alumno 3                       |
 
 **2º DAM Tarde**
 
