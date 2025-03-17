@@ -48,7 +48,18 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 
 ### 2º DAM Tarde
-`por determinar`
+
+|Proyecto | Alumno(s)|
+| -----------------------------------------------------------------------------------| ------------------------------|
+| Grupo 1: The Enigma Casino | Alejandro Barrionuevo Rosado<br/> Raquel López Bermúdez <br/> José Molina Meléndez |
+| Grupo 2: PJ Arcade  | Fernando Jafet Sánchez Lagos <br/> Pablo Ruíz Domínguez |
+| Grupo 3: Trello/Notion con WS  |  Adrián Jiménez Santiago<br/> Elías Robles Ruiz |
+| Grupo 4: Spotify  | Miguel Ángel Platero Duque |
+| Grupo 5: Marketplace (Milanuncios/Wallapop)  | Enrique Capote Molina<br/>Juan Ignacio Ruiz Cosano<br/>Miguel García Alcalá |
+| Grupo 6: ???  |  Alonso Onsurbe López<br/>Iván Montes Gutiérrez |
+| Grupo 7: ???  | Christian Rodríguez Lara<br/>Kilian Méndez Ávila<br/>Yasir Bel Maalem Ouhadou Abdenour  |
+| Grupo 8: ???  | Giovanni Giove Meschian<br/>José Miguel Toro Canillas |
+
 
 ## 📝 Fechas a tener en cuenta
 * Anteproyecto: **31 de marzo**
