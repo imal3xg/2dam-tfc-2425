@@ -22,9 +22,29 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 ### 2º DAM Mañana
 
-| Proyecto                                                                                                                         | Alumno(s)                                              |
-|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| [Proyecto]()                                                                      | Alumno1  <br>  Alumno2 |
+|Proyecto | Alumno(s)|
+|-----------------------------------------------------------------------------------| ------------------------------|
+| [Proyecto]()                                                                      |Alarcón Fortes Manuel |
+| [Proyecto]()                                                                      |Ávila Rosas Miguel Ángel |
+| [Proyecto]()                                                                      |Barnestein Martos Alejandro |
+| [Proyecto]()                                                                      |Sofía Béjar Rimoldi |
+| [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
+| [Proyecto]()                                                                      |Francisco Javier Cabello Rueda |
+| [Proyecto]()                                                                      |Francisco Cedillo Serrato |
+| [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
+| [Proyecto]()                                                                      |Juan Cid Benítez |
+| [Proyecto]()                                                                      |Sergio Gámez Ortega |
+| [Proyecto]()                                                                      |Pablo Gil Díaz |
+| [Proyecto]()                                                                      |Antonio Jesús Heredia Leiva |
+| [Proyecto]()                                                                      |Francisco Jiménez López |
+| [Proyecto]()                                                                      |Samuel Lapeira Pérez |
+| [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |
+| [Proyecto]()                                                                      |Álvaro Leiva García |
+| [Proyecto]()                                                                      |Álvaro López Guerrero |
+| [Proyecto]()                                                                      |Daniel de Poorter Vázquez |
+| [Proyecto]()                                                                      |Sergio Ramos Alarcón |
+| [Proyecto]()                                                                      |Alba Romero Almansa |
+| [Proyecto]()                                                                      |Ruyi Xia Ye |
 
 
 ### 2º DAM Tarde
