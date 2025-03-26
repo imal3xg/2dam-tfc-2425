@@ -43,7 +43,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      | Moncayo Pérez, Rafael |
 | [Proyecto]()                                                                      | San Juan Thompson, Joseph Luca |
 | [Proyecto]()                                                                      | Sánchez Moreno de Vega, Alonso |
-| [Proyecto](https://github.com/DavidSoleraRomero/sprout-it-tfg)                    | Solera Romero, David |
+| [Sprout It](https://github.com/DavidSoleraRomero/sprout-it-tfg)                    | Solera Romero, David |
 
 
 
