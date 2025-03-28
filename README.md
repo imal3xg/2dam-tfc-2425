@@ -24,7 +24,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 |Proyecto | Alumno(s)|
 |-----------------------------------------------------------------------------------| ------------------------------|
-| [Proyecto]()                                                                      | Atencia Barranco, Paula |
+| [Call of Duty Wiki](https://github.com/PaulaAtencia/TFG-CallofDuty)               | Atencia Barranco, Paula |
 | [Proyecto]()                                                                      | Avella Pérez, Samuel |
 | [Proyecto]()                                                                      | Barrios Márquez, Adrián |
 | [Proyecto]()                                                                      | Camino Vázquez, Pablo |
