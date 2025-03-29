@@ -36,7 +36,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      | Giráldez Guerrero, Alejandro |
 | [Proyecto]()                                                                      | González Pons, Verónica |
 | [Proyecto]()                                                                      | Jódar Barbero, Daniel |
-| [Proyecto]()                                                                      | Lázaro Zambrano, Ignacio |
+| [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
 | [Proyecto]()                                                                      | Leiva López, Eloy |
 | [Proyecto]()                                                                      | Martín González, Cesar Julio |
 | [Proyecto]()                                                                      | de Miguel Díez, Víctor |
