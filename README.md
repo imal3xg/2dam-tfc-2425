@@ -38,7 +38,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      | Jódar Barbero, Daniel |
 | [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
 | [Proyecto]()                                                                      | Leiva López, Eloy |
-| [Proyecto]()                                                                      | Martín González, Cesar Julio |
+| [PokéBinder TCG](https://github.com/cesarjulio19/pokebindertcg-tfg)                                                                      | Martín González, Cesar Julio |
 | [Proyecto]()                                                                      | de Miguel Díez, Víctor |
 | [Proyecto]()                                                                      | Moncayo Pérez, Rafael |
 | [Proyecto]()                                                                      | San Juan Thompson, Joseph Luca |
