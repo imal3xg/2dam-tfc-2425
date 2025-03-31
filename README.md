@@ -27,7 +27,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Call of Duty Wiki](https://github.com/PaulaAtencia/TFG-CallofDuty)               | Atencia Barranco, Paula |
 | [Proyecto]()                                                                      | Avella Pérez, Samuel |
 | [Proyecto]()                                                                      | Barrios Márquez, Adrián |
-| [Proyecto]()                                                                      | Camino Vázquez, Pablo |
+| [TrainingRoutine](https://github.com/pablitocavaz04/TrainingRoutine-TFG)                                                                      | Camino Vázquez, Pablo |
 | [Proyecto]()                                                                      | Caro Romero, Iván |
 | [Proyecto]()                                                                      | Corbacho Millán, Rocío |
 | [Proyecto]()                                                                      | Falcón Carvajal, Miguel Jesús |
