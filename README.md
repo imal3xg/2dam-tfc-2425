@@ -31,13 +31,13 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      | Caro Romero, Iván |
 | [Proyecto]()                                                                      | Corbacho Millán, Rocío |
 | [Proyecto]()                                                                      | Falcón Carvajal, Miguel Jesús |
-| [Proyecto]()                                                                      | Gallego Ríos, Boris |
+| [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Gallego Ríos, Boris |
 | [Proyecto]()                                                                      | Gil Sánchez, Carlos |
 | [Proyecto]()                                                                      | Giráldez Guerrero, Alejandro |
 | [Proyecto]()                                                                      | González Pons, Verónica |
 | [Proyecto]()                                                                      | Jódar Barbero, Daniel |
 | [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
-| [Proyecto]()                                                                      | Leiva López, Eloy |
+| [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Leiva López, Eloy |
 | [PokéBinder TCG](https://github.com/cesarjulio19/pokebindertcg-tfg)                                                                      | Martín González, Cesar Julio |
 | [Proyecto]()                                                                      | de Miguel Díez, Víctor |
 | [Proyecto]()                                                                      | Moncayo Pérez, Rafael |
