@@ -29,12 +29,12 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      | Barrios Márquez, Adrián |
 | [TrainingRoutine](https://github.com/pablitocavaz04/TrainingRoutine-TFG)                                                                      | Camino Vázquez, Pablo |
 | [Proyecto]()                                                                      | Caro Romero, Iván |
-| [Proyecto]()                                                                      | Corbacho Millán, Rocío |
+| [ReadyToEnjoy](https://github.com/Veroonicagp/ReadyToEnjoyy)                                                                      | Corbacho Millán, Rocío |
 | [Proyecto]()                                                                      | Falcón Carvajal, Miguel Jesús |
 | [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Gallego Ríos, Boris |
 | [Proyecto]()                                                                      | Gil Sánchez, Carlos |
 | [Proyecto]()                                                                      | Giráldez Guerrero, Alejandro |
-| [Proyecto]()                                                                      | González Pons, Verónica |
+| [ReadyToEnjoy](https://github.com/Veroonicagp/ReadyToEnjoyy)                                                                      | González Pons, Verónica |
 | [Proyecto]()                                                                      | Jódar Barbero, Daniel |
 | [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
 | [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Leiva López, Eloy |
