@@ -33,7 +33,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [FalconFit](https://github.com/FalconFit)                                         | Falcón Carvajal, Miguel Jesús |
 | [CryptoWizzard](https://github.com/Boris027/CryptoWizzard-TFG)                         | Gallego Ríos, Boris |
 | [ReceteoQueTeVeo](https://github.com/cgilsanchez/TFG-ReceteoQueTeVeo)                | Gil Sánchez, Carlos |
-| [Proyecto]()                                                                      | Giráldez Guerrero, Alejandro |
+| [PartyNow](https://github.com/imal3xg/partynow-tfg)                                                                      | Giráldez Guerrero, Alejandro |
 | [ReadyToEnjoy](https://github.com/Veroonicagp/ReadyToEnjoyy)                                                                      | González Pons, Verónica |
 | [Proyecto]()                                                                      | Jódar Barbero, Daniel |
 | [StayOn](https://github.com/IgnacioLazZam/stayon-tfg.git)                                                                      | Lázaro Zambrano, Ignacio |
